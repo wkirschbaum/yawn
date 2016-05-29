@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/wkirschbaum/yawn",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v72",
+	"Deps": []
+}
